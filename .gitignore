@@ -1,0 +1,10 @@
+.env
+downloaded_papers/
+parsed_papers.jsonl
+iteration_logs.json
+modified_thesis_sections.jsonl
+final_thesis.md
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.claude
